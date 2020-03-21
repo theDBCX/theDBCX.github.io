@@ -12,7 +12,7 @@ DosBrosComiX is a fun Lego animation studio (but "not for kids" because of COPPA
 
 ## Lego_Ideas
 
-We've designed a Lego Ideas project: the Modular Portal Testing Chamber. To help it become a real Lego set for free, visit the page. There are also many more details and pictures there!
+We've designed a Lego Ideas project: the Modular Portal Testing Chamber. To help it become a real Lego set for free, [visit the page](https://ideas.lego.com/projects/5b3fbee7-9626-4be3-87c1-c56c15d51ef1). There are also many more details and pictures there!
 
 ![Modular Portal Testing Chamber](ExampleTest-3by3Turrets.png)
 
