@@ -6,7 +6,7 @@ DosBrosComiX is a fun Lego animation studio (but "not for kids" because of COPPA
 
 *Italics here*
 
-![DBCX Logo](Channel Icon.JPG)
+![DBCX Logo](youtubeicon.JPG)
 
 ![Thumbnail of Slate](thumbnail.png)
 
