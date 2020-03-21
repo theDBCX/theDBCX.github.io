@@ -12,6 +12,14 @@ DosBrosComiX is a fun Lego animation studio (but "not for kids" because of COPPA
 
 ## Lego_Ideas
 
+We've designed a Lego Ideas project: the Modular Portal Testing Chamber. To help it become a real Lego set for free, visit the page. There are also many more details and pictures there!
+
+![Modular Portal Testing Chamber](ExampleTest-3by3Turrets.png)
+
+Instructions for the Modular Portal Testing Chamber will be posted here for free! We'd really appreciate donations for them, sent by PayPal to (post email here once checked). Thank you!
+
+## Usage
+
 To use the Slate theme:
 
 1. Add the following to your site's `_config.yml`:
