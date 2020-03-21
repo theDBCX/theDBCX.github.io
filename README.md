@@ -7,8 +7,8 @@ DosBrosComiX is a fun Lego animation studio (but "not for kids" because of COPPA
 *Italics here*
 
 ![DBCX Logo](youtubeicon.JPG)
+*Our Channel Logo, pushed over by pirates*
 
-![Thumbnail of Slate](thumbnail.png)
 
 ## Usage
 
